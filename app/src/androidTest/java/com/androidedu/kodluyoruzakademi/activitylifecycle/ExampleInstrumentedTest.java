@@ -21,6 +21,6 @@ public class ExampleInstrumentedTest {
         // Context of the app under test.
         Context appContext = InstrumentationRegistry.getTargetContext();
 
-        assertEquals("com.androidedu.kodluyoruzakademi.activitylifecycle", appContext.getPackageName());
+        assertEquals("com.androidedu.kodluyoruzakademi.act_main", appContext.getPackageName());
     }
 }

@@ -4,7 +4,7 @@ android {
     compileSdkVersion 26
     buildToolsVersion "26.0.0"
     defaultConfig {
-        applicationId "com.androidedu.kodluyoruzakademi.activitylifecycle"
+        applicationId "com.androidedu.kodluyoruzakademi.act_main"
         minSdkVersion 15
         targetSdkVersion 26
         versionCode 1
