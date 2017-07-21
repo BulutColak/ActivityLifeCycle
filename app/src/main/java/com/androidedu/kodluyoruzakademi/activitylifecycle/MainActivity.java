@@ -15,7 +15,7 @@ import android.view.Menu;
 public class MainActivity extends AppCompatActivity {
     //*** SONUÇ ***
     // Aşağıdaki metotlar içinde 2 metot çalışmadı: onActivityResult ve onAttachFragment
-    //
+    //*************
     private final String TAG = "BulutColak_Kodluyoruz";
 
     @Override
